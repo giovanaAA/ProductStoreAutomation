@@ -7,7 +7,7 @@ realizar una compra llenando un formulario.
 
  Abrir una ruta en la terminal donde se clonará el proyecto y ejecutar el siguiente comando:
 
-    $ git clone git@github.com:...
+    $ git clone https://github.com/giovanaAA/ProductStoreAutomation.git
 ### Pre-requisitos para el entorno de desarrollo
 * Se debe tener un IDE para desplegar el proyecto
 * Se debe crear un ambiente virtual
